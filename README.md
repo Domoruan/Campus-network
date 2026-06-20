@@ -13,6 +13,8 @@ Enterprise Network - Version 3
 - Cisco CME VoIP
 - Wireless LAN Controller
 - DHCP, DNS, email, web, and AAA services
+- HSRP provides redundancy between the primary and backup HQ Layer 3 switches.
+- The switches share virtual gateway addresses for the HQ VLANs.
 
 ### TACACS+ Login
   
