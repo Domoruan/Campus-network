@@ -50,7 +50,7 @@ Dynamic PAT provides Internet access for both HQ and Branch networks.
 - HQ-to-Branch routed link: `10.0.0.0/30`
 - BGP was removed because both buildings are part of the same campus network
 
-##Wireless
+## Wireless
 The HQ site includes a Wireless LAN Controller for centralized wireless management.
 
 - The WLC management address is 192.168.30.10.
